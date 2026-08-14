@@ -1,0 +1,4 @@
+interface:
+  display_name: "抖音全域添加视频"
+  short_description: "通过已登录 Chrome 给直播全域或门店全域安全添加视频素材"
+  default_prompt: "使用 $douyin-global-video-add 先预演指定全域计划的视频添加清单，确认目标后执行并回读。"
